@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <title>高雄流行音樂中心 - 詳細介紹</title>
+    <style>
+        body { background-color: #eef2f3; font-family: Arial, sans-serif; padding: 30px; }
+        .content-box { background: white; max-width: 800px; margin: 0 auto; padding: 30px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); }
+        h1 { color: #111; }
+        .back-link { display: inline-block; margin-top: 20px; color: #3498db; text-decoration: none; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+    <div class="content-box">
+        <h1>高雄流行音樂中心 (Kaohsiung Music Center)</h1>
+        <hr>
+        <!-- 圖片標籤：請記得用 AI 生成適合的圖片放進同一個資料夾，或先用線上暫存圖 -->
+        <img src="https://images.unsplash.com/photo-1596436889106-be35e843f974?w=600" alt="高雄流行音樂中心" width="600" height="400">
+        
+        <h3>建築特色：</h3>
+        <p>由西班牙建築團隊與台灣團隊共同設計，外觀採用輕軌、海洋浪花、海浪、珊瑚、海豚等意象。主體建築包括「高音塔」、「低音塔」、「海風廣場」等，展現了極具未來感的數位幾何美學。</p>
+        
+        <a href="index.html" class="back-link">← 回到首頁</a>
+    </div>
+
+</body>
+</html>
